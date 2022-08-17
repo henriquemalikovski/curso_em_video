@@ -1,4 +1,2 @@
-x = 0
-x = + 1
-
-print(x)
+s = 19 % 2
+print(s)
